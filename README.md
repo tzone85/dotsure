@@ -1,5 +1,3 @@
-# DotSure Assessment
-
 ## Requirements
  - PHP 7
  - MySQL
